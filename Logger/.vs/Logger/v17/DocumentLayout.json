@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD9C6D-49BE-452A-80EF-75187240F5AF}|Logger\\Logger.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\logger\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD9C6D-49BE-452A-80EF-75187240F5AF}|Logger\\Logger.csproj|solutionrelative:logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD9C6D-49BE-452A-80EF-75187240F5AF}|Logger\\Logger.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\logger\\logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD9C6D-49BE-452A-80EF-75187240F5AF}|Logger\\Logger.csproj|solutionrelative:logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logger.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Logger\\Logger\\logger.cs",
+              "RelativeDocumentMoniker": "Logger\\logger.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Logger\\Logger\\logger.cs",
+              "RelativeToolTip": "Logger\\logger.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:40:49.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Logger\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Logger\\Logger\\Program.cs",
+              "RelativeToolTip": "Logger\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAADUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:36:18.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

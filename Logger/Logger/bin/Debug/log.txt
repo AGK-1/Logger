@@ -1,0 +1,5 @@
+9/13/2024 03:33:54: Pressed a
+9/13/2024 03:33:54: Application started
+9/13/2024 03:33:54: ERROR - Attempted to divide by zero.
+   at Logger.Program.Main(String[] args) in C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\Program.cs:line 40
+9/13/2024 03:33:54: Application ended

@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Logger\Logger\obj\Debug\Logger.pdb
